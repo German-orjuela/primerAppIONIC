@@ -1,0 +1,7 @@
+{
+  "name": "primerAppIONIC",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
